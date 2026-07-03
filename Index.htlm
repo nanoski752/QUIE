@@ -336,9 +336,9 @@ Selecciona la hora en la que dejarás de utilizar el teléfono.
 
 <div class="clock">
 
-<div id="horaHand" class="hand hourHand"></div>
+<div id="horaHandDormir" class="hand hourHand"></div>
 
-<div id="minutoHand" class="hand minuteHand"></div>
+<div id="minutoHandDormir" class="hand minuteHand"></div>
 
 <div class="clockCenter"></div>
 
@@ -406,9 +406,9 @@ La hora debe ser al menos 8 horas después de la hora de dormir.
 
 <div class="clock">
 
-<div class="hand hourHand"></div>
+<div id="horaHandDespertar" class="hand hourHand"></div>
 
-<div class="hand minuteHand"></div>
+<div id="minutoHandDespertar" class="hand minuteHand"></div>
 
 <div class="clockCenter"></div>
 
